@@ -1,3 +1,6 @@
-Get started by customizing your environment (defined in the .idx/dev.nix file) with the tools and IDE extensions you'll need for your project!
+## Landing Page 2024
 
-Learn more at https://developers.google.com/idx/guides/customize-idx-env
+Diseño pagina web para Tienda de Ropa
+HTML CSS
+
+### En la Carpeta Imagenes, se encuentrar fotos del diseño final de la pagina
